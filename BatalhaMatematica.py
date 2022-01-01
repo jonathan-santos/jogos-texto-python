@@ -37,4 +37,4 @@ if(vidaJaque > 0):
 else:
     print("Jaque perdeu a batalha, então você começa a zuar ele, ele fica nervoso e volta a sua dimensão para ter reforço de matemática")
 
-print("FIN")
+print("FIM")
